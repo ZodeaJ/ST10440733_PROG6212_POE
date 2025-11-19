@@ -29,4 +29,12 @@ d)HR
 
 4. How to run the project
 -Clone the Github repository link
-git clone 
+-git clone https://github.com/ZodeaJ/ST10440733_PROG6212_POE.git
+-cd prog-final-poe
+
+
+Needed Information to log into roles:
+HR: Username = "SK" and Password = "HR123"
+Lecturer: Username = "GT" and Password = "lecturer123"
+Coordinator: Username = "TK" and Password = "coordinator123"
+Manager: Username = "IH" and Password = "manager123"
