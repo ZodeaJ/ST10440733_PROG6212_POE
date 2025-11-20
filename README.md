@@ -32,6 +32,9 @@ d)HR
 -git clone https://github.com/ZodeaJ/ST10440733_PROG6212_POE.git
 -cd prog-final-poe
 
+Links:
+Video Link: https://youtu.be/SuKORyNW8ec
+PowerPoint Link: https://advtechonline-my.sharepoint.com/:p:/g/personal/st10440733_imconnect_edu_za/IQD4ek59OahhTISJSu0uTVeOAarvZJKo2OJ3tUOHw9CXntU?e=RJGRVn
 
 Needed Information to log into roles:
 HR: Username = "SK" and Password = "HR123"
