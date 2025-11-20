@@ -1,12 +1,207 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\cldvpoe\\progfinalpoe\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\cldvpoe\\progfinalpoe\\models\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\cldvpoe\\progfinalpoe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\cldvpoe\\progfinalpoe\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\cldvpoe\\progfinalpoe\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\cldvpoe\\progfinalpoe\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\cldvpoe\\progfinalpoe\\models\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\cldvpoe\\progfinalpoe\\models\\filestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\filestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\cldvpoe\\progfinalpoe\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\cldvpoe\\progfinalpoe\\models\\coordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\coordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\cldvpoe\\progfinalpoe\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:25:58.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\Manager.cs",
+              "RelativeToolTip": "Models\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:15:56.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAABEAAADAAWXiSvcqwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:11:04.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HR.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\HR.cs",
+              "RelativeDocumentMoniker": "Models\\HR.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\HR.cs",
+              "RelativeToolTip": "Models\\HR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:17:56.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\Lecturer.cs",
+              "RelativeDocumentMoniker": "Models\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\Lecturer.cs",
+              "RelativeToolTip": "Models\\Lecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:15:45.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\Invoice.cs",
+              "RelativeToolTip": "Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:15:30.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\IFileStorage.cs",
+              "RelativeDocumentMoniker": "Models\\IFileStorage.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\IFileStorage.cs",
+              "RelativeToolTip": "Models\\IFileStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:15:18.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\Feedback.cs",
+              "RelativeToolTip": "Models\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:14:58.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Coordinator.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\Coordinator.cs",
+              "RelativeDocumentMoniker": "Models\\Coordinator.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\Coordinator.cs",
+              "RelativeToolTip": "Models\\Coordinator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:14:43.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\FileStorage.cs",
+              "RelativeDocumentMoniker": "Models\\FileStorage.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\FileStorage.cs",
+              "RelativeToolTip": "Models\\FileStorage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:16:38.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDVPOE\\ProgFinalPoe\\Models\\Claim.cs",
+              "RelativeToolTip": "Models\\Claim.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:14:27.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
