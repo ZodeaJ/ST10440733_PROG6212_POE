@@ -1,0 +1,237 @@
+﻿@{
+    ViewData["Title"] = "HR Dashboard";
+}
+
+<style>
+    .bg-professional-primary {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+        color: white !important;
+        border: none;
+    }
+
+    .bg-professional-secondary {
+        background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%) !important;
+        color: white !important;
+        border: none;
+    }
+
+    .bg-professional-light {
+        background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%) !important;
+        color: #333 !important;
+        border: 1px solid #e9ecef;
+    }
+
+    .bg-professional-accent {
+        background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%) !important;
+        color: white !important;
+        border: none;
+    }
+
+    .bg-professional-success {
+        background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%) !important;
+        color: white !important;
+        border: none;
+    }
+
+    .bg-professional-warning {
+        background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%) !important;
+        color: white !important;
+        border: none;
+    }
+
+    .btn-professional-primary {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border: none;
+        font-weight: 500;
+        padding: 10px 20px;
+    }
+
+        .btn-professional-primary:hover {
+            background: linear-gradient(135deg, #5a6fd8 0%, #6a4190 100%);
+            color: white;
+        }
+
+    .btn-professional-secondary {
+        background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        color: white;
+        border: none;
+        font-weight: 500;
+        padding: 10px 20px;
+    }
+
+        .btn-professional-secondary:hover {
+            background: linear-gradient(135deg, #e882f0 0%, #e4465c 100%);
+            color: white;
+        }
+</style>
+
+<div class="container">
+    <h2 class="mb-4" style="color: #333; font-weight: 600; border-bottom: 2px solid #667eea; padding-bottom: 10px;">HR Dashboard</h2>
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["Success"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
+
+    <div class="row">
+        <div class="col-md-3 mb-4">
+            <div class="card text-white bg-professional-primary shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title" style="font-size: 1rem;">Approved Claims</h5>
+                    <p class="card-text display-6" style="font-size: 2.5rem;">@ViewBag.PendingInvoicesCount</p>
+                    <small class="opacity-75">Waiting for invoice processing</small>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-4">
+            <div class="card text-white bg-professional-secondary shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title" style="font-size: 1rem;">Total Invoices</h5>
+                    <p class="card-text display-6" style="font-size: 2.5rem;">@ViewBag.TotalInvoicesCount</p>
+                    <small class="opacity-75">Generated to date</small>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-4">
+            <div class="card text-white bg-professional-accent shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title" style="font-size: 1rem;">Pending Payments</h5>
+                    <p class="card-text display-6" style="font-size: 2.5rem;">@ViewBag.PendingPaymentsCount</p>
+                    <small class="opacity-75">Awaiting payment processing</small>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-4">
+            <div class="card bg-professional-light shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title" style="font-size: 1rem; color: #333;">Active Users</h5>
+                    <p class="card-text display-6" style="font-size: 2.5rem; color: #333;">@ViewBag.TotalLecturersCount</p>
+                    <small class="text-muted">Registered in system</small>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-12">
+            <div class="card bg-white-custom shadow">
+                <div class="card-header bg-dark-custom text-white">
+                    <h5 class="mb-0" style="color: black !important;">Quick Actions</h5>
+                </div>
+                <div class="card-body">
+                    <div class="row g-3">
+                        <div class="col-md-3">
+                            <a href="@Url.Action("ApprovedClaims")" class="btn btn-primary w-100 py-3" style="color: black !important;">
+                                Process Claims
+                            </a>
+                        </div>
+                        <div class="col-md-3">
+                            <a href="@Url.Action("Invoices")" class="btn btn-success w-100 py-3" style="color: black !important;">
+                                View Invoices
+                            </a>
+                        </div>
+                        <div class="col-md-3">
+                            <a href="@Url.Action("ManageUsers")" class="btn bg-professional-warning w-100 py-3" style="color: black !important;">
+                                Manage Users
+                            </a>
+                        </div>
+                        <div class="col-md-3">
+                            <a href="@Url.Action("CreateUser")" class="btn bg-professional-success w-100 py-3" style="color: black !important;">
+                                Create New User
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-12">
+            <div class="card bg-white-custom shadow">
+                <div class="card-header bg-info text-white">
+                    <h5 class="mb-0">System Access</h5>
+                    <small>Access all system modules</small>
+                </div>
+                <div class="card-body">
+                    <div class="row g-3">
+                        <div class="col-md-3">
+                            <a href="@Url.Action("MakeAClaim", "Lecturer")" class="btn btn-primary w-100 py-3">
+                                Lecturer Claims
+                            </a>
+                        </div>
+                        <div class="col-md-3">
+                            <a href="@Url.Action("ReviewClaims", "Admin")" class="btn btn-warning w-100 py-3">
+                                Coordinator Review
+                            </a>
+                        </div>
+                        <div class="col-md-3">
+                            <a href="@Url.Action("VerifyClaims", "Admin")" class="btn btn-success w-100 py-3">
+                                Manager Verification
+                            </a>
+                        </div>
+                        <div class="col-md-3">
+                            <a href="@Url.Action("TrackLecturerClaims", "HR")" class="btn btn-info w-100 py-3">
+                                Track All Claims
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-12">
+            <div class="card bg-professional-light shadow-sm">
+                <div class="card-header bg-professional-primary text-white">
+                    <h5 class="mb-0" style="font-weight: 500;">Recent Approved Claims</h5>
+                </div>
+                <div class="card-body">
+                    @if (ViewBag.RecentClaims != null && ViewBag.RecentClaims.Count > 0)
+                    {
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead class="table-light">
+                                    <tr>
+                                        <th>Claim ID</th>
+                                        <th>Lecturer</th>
+                                        <th>Month</th>
+                                        <th>Amount</th>
+                                        <th>Approved Date</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var claim in ViewBag.RecentClaims)
+                                    {
+                                        <tr>
+                                            <td class="fw-semibold">#@claim.ClaimId</td>
+                                            <td>@claim.Lecturer.Name</td>
+                                            <td>@claim.Month</td>
+                                            <td class="fw-bold text-success">R @claim.Amount.ToString("F2")</td>
+                                            <td>@claim.ApprovedAt?.ToString("dd MMM yyyy")</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="text-center py-4">
+                            <p class="text-muted mb-0">No approved claims available at the moment.</p>
+                            <small class="text-muted">Approved claims will appear here for invoice processing.</small>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

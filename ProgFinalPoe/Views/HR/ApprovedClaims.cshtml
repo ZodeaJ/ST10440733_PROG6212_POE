@@ -1,0 +1,89 @@
+﻿@model List<ProgFinalPoe.Models.Claim>
+
+@{
+    ViewData["Title"] = "Approved Claims";
+}
+
+<style>
+    .bg-professional-primary {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+        color: white !important;
+        border: none;
+    }
+
+    .btn-professional-primary {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border: none;
+        font-weight: 500;
+    }
+
+        .btn-professional-primary:hover {
+            background: linear-gradient(135deg, #5a6fd8 0%, #6a4190 100%);
+            color: white;
+        }
+</style>
+
+<h2 class="mb-4" style="color: #333; font-weight: 600; border-bottom: 2px solid #667eea; padding-bottom: 10px;">Approved Claims - Ready for Invoicing</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["Success"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["Error"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+
+@if (Model.Any())
+{
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Claim ID</th>
+                    <th>Lecturer</th>
+                    <th>Month</th>
+                    <th>Hours</th>
+                    <th>Rate</th>
+                    <th>Amount</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var claim in Model)
+                {
+                    <tr>
+                        <td>@claim.ClaimId</td>
+                        <td>@claim.Lecturer.Name</td>
+                        <td>@claim.Month</td>
+                        <td>@claim.HoursWorked</td>
+                        <td>R @claim.HourlyRate</td>
+                        <td><strong>R @claim.Amount.ToString("F2")</strong></td>
+                        <td>
+                            <a href="@Url.Action("CreateInvoice", new { id = claim.ClaimId })"
+                               class="btn btn-professional-primary btn-sm"
+                               onclick="return confirm('Create invoice for this claim?')">
+                                Create Invoice
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <div class="alert alert-info">No approved claims waiting for invoices.</div>
+}
+
+<div class="mt-3">
+    <a href="@Url.Action("Invoices")" class="btn btn-professional-primary">View All Invoices</a>
+</div>

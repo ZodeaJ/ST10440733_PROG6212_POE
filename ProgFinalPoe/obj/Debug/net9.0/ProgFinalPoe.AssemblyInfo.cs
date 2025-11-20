@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgFinalPoe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b83122a969768dd0e25f3f58aa79393819c5723")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c38102bbd1708d507c900dabc2e1ea66142fb23c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgFinalPoe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgFinalPoe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

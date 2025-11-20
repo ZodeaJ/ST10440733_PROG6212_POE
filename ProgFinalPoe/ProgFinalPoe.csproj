@@ -20,4 +20,10 @@
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="18.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Admin\" />
+    <Folder Include="Views\Claim\" />
+    <Folder Include="Views\Lecturer\" />
+  </ItemGroup>
+
 </Project>

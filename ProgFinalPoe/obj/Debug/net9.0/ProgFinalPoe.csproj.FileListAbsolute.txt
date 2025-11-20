@@ -1,0 +1,10 @@
+C:\Users\lab_services_student\Documents\GitHub\ST10440733_PROG6212_POE\ProgFinalPoe\obj\Debug\net9.0\ProgFinalPoe.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Documents\GitHub\ST10440733_PROG6212_POE\ProgFinalPoe\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\lab_services_student\Documents\GitHub\ST10440733_PROG6212_POE\ProgFinalPoe\obj\Debug\net9.0\ProgFinalPoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Documents\GitHub\ST10440733_PROG6212_POE\ProgFinalPoe\obj\Debug\net9.0\ProgFinalPoe.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Documents\GitHub\ST10440733_PROG6212_POE\ProgFinalPoe\obj\Debug\net9.0\ProgFinalPoe.AssemblyInfo.cs
+C:\Users\lab_services_student\Documents\GitHub\ST10440733_PROG6212_POE\ProgFinalPoe\obj\Debug\net9.0\ProgFinalPoe.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\GitHub\ST10440733_PROG6212_POE\ProgFinalPoe\obj\Debug\net9.0\ProgFinalPoe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Documents\GitHub\ST10440733_PROG6212_POE\ProgFinalPoe\obj\Debug\net9.0\ProgFinalPoe.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Documents\GitHub\ST10440733_PROG6212_POE\ProgFinalPoe\obj\Debug\net9.0\ProgFinalPoe.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Documents\GitHub\ST10440733_PROG6212_POE\ProgFinalPoe\obj\Debug\net9.0\ProgFinalPoe.sourcelink.json
