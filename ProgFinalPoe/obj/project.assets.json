@@ -5329,11 +5329,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\ProgFinalPoe.csproj",
+      "projectUniqueName": "C:\\Users\\lab_services_student\\Documents\\PROG\\ProgFinalPoe\\ProgFinalPoe.csproj",
       "projectName": "ProgFinalPoe",
-      "projectPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\ProgFinalPoe.csproj",
+      "projectPath": "C:\\Users\\lab_services_student\\Documents\\PROG\\ProgFinalPoe\\ProgFinalPoe.csproj",
       "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\obj\\",
+      "outputPath": "C:\\Users\\lab_services_student\\Documents\\PROG\\ProgFinalPoe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

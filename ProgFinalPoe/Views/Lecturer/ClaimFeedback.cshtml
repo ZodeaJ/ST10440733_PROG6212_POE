@@ -1,0 +1,43 @@
+﻿@model ProgFinalPoe.Models.Claim
+@{
+    ViewData["Title"] = "Claim Feedback";
+}
+
+<h2>Feedback for Claim #@Model.ClaimId</h2>
+
+<div class="card mb-3">
+    <div class="card-body">
+        <p><strong>Lecturer:</strong> @Model.Lecturer?.Name</p>
+        <p><strong>Month:</strong> @Model.Month</p>
+        <p><strong>Description:</strong> @Model.Description</p>
+        <p><strong>Status:</strong> @Model.Status</p>
+        <p>
+            <strong>Supporting Document:</strong>
+            <a asp-action="ViewDocument" asp-route-claimId="@Model.ClaimId"
+               class="btn btn-sm btn-outline-dark" target="_blank">View Document</a>
+        </p>
+    </div>
+</div>
+
+<h4>Feedback Messages</h4>
+@if (!Model.FeedbackMessages.Any())
+{
+    <div class="alert alert-info">No feedback yet for this claim.</div>
+}
+else
+{
+    <ul class="list-group">
+        @foreach (var fb in Model.FeedbackMessages.OrderBy(f => f.Timestamp))
+        {
+            <li class="list-group-item">
+                <strong>@fb.Role</strong> <small class="text-muted">(@fb.Timestamp.ToString("g"))</small>
+                <br />
+                @fb.Message
+            </li>
+        }
+    </ul>
+}
+
+<div class="mt-3">
+    <a href="@Url.Action("TrackLecturerClaims", "HR")" class="btn btn-secondary">Back to Claims Tracking</a>
+</div>

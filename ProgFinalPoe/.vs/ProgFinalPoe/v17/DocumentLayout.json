@@ -1,126 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\",
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\PROG\\ProgFinalPoe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F149DEE6-9F46-43B6-8D42-CA5AF4BA8594}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\prog\\progfinalpoe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F149DEE6-9F46-43B6-8D42-CA5AF4BA8594}|ProgFinalPoe.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F149DEE6-9F46-43B6-8D42-CA5AF4BA8594}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\prog\\progfinalpoe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F149DEE6-9F46-43B6-8D42-CA5AF4BA8594}|ProgFinalPoe.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F149DEE6-9F46-43B6-8D42-CA5AF4BA8594}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\prog\\progfinalpoe\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F149DEE6-9F46-43B6-8D42-CA5AF4BA8594}|ProgFinalPoe.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F149DEE6-9F46-43B6-8D42-CA5AF4BA8594}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\prog\\progfinalpoe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F149DEE6-9F46-43B6-8D42-CA5AF4BA8594}|ProgFinalPoe.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\views\\hr\\tracklecturerclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:views\\hr\\tracklecturerclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\views\\hr\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:views\\hr\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\views\\hr\\invoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:views\\hr\\invoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\views\\hr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:views\\hr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\views\\hr\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:views\\hr\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\views\\hr\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:views\\hr\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\views\\hr\\approvedclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:views\\hr\\approvedclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\services\\sessionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:services\\sessionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\models\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\models\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\models\\filestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\filestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\models\\coordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\coordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F149DEE6-9F46-43B6-8D42-CA5AF4BA8594}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\prog\\progfinalpoe\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F149DEE6-9F46-43B6-8D42-CA5AF4BA8594}|ProgFinalPoe.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -135,364 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADIAAAAAAAAAAAAmwFgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T12:11:05.277Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG\\ProgFinalPoe\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG\\ProgFinalPoe\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T12:07:07.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG\\ProgFinalPoe\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG\\ProgFinalPoe\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAADNMzMzM5MwwBoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T12:07:34.02Z",
+              "WhenOpened": "2025-11-20T11:42:19.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-20T12:07:10.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T12:03:20.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ManageUsers.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\ManageUsers.cshtml",
-              "RelativeDocumentMoniker": "Views\\HR\\ManageUsers.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\ManageUsers.cshtml",
-              "RelativeToolTip": "Views\\HR\\ManageUsers.cshtml",
-              "ViewState": "AgIAADEAAAAAAAAAAAAmwFcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T11:57:14.43Z"
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG\\ProgFinalPoe\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG\\ProgFinalPoe\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAIwK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:36:54.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TrackLecturerClaims.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\TrackLecturerClaims.cshtml",
-              "RelativeDocumentMoniker": "Views\\HR\\TrackLecturerClaims.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\TrackLecturerClaims.cshtml",
-              "RelativeToolTip": "Views\\HR\\TrackLecturerClaims.cshtml",
-              "ViewState": "AgIAAJQAAACAMzMzMzMUwL0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T11:57:32.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Invoices.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\Invoices.cshtml",
-              "RelativeDocumentMoniker": "Views\\HR\\Invoices.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\Invoices.cshtml",
-              "RelativeToolTip": "Views\\HR\\Invoices.cshtml",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAmwGwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T11:56:57.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\HR\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\Index.cshtml",
-              "RelativeToolTip": "Views\\HR\\Index.cshtml",
-              "ViewState": "AgIAAMYAAAAAAAAAAAAmwOwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T11:56:42.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EditUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\EditUser.cshtml",
-              "RelativeDocumentMoniker": "Views\\HR\\EditUser.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\EditUser.cshtml",
-              "RelativeToolTip": "Views\\HR\\EditUser.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAmwEUAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T11:56:26.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\CreateUser.cshtml",
-              "RelativeDocumentMoniker": "Views\\HR\\CreateUser.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\CreateUser.cshtml",
-              "RelativeToolTip": "Views\\HR\\CreateUser.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAmwE0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T11:55:02.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "Views\\Auth\\Login.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAmwEAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T11:55:35.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ApprovedClaims.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\ApprovedClaims.cshtml",
-              "RelativeDocumentMoniker": "Views\\HR\\ApprovedClaims.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\ApprovedClaims.cshtml",
-              "RelativeToolTip": "Views\\HR\\ApprovedClaims.cshtml",
-              "ViewState": "AgIAADIAAAAAAAAAAAAmwFgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T11:56:07.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SessionsService.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Services\\SessionsService.cs",
-              "RelativeDocumentMoniker": "Services\\SessionsService.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Services\\SessionsService.cs",
-              "RelativeToolTip": "Services\\SessionsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:44:12.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HRController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\HRController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HRController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\HRController.cs",
-              "RelativeToolTip": "Controllers\\HRController.cs",
-              "ViewState": "AgIAAHsBAAAAAAAAAAAqwKEBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:36:35.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LecturerController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\LecturerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LecturerController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\LecturerController.cs",
-              "RelativeToolTip": "Controllers\\LecturerController.cs",
-              "ViewState": "AgIAAPAAAAAAAAAAAAAqwBYBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:36:52.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwDEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:37:37.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAqwDwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:36:05.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ClaimController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\ClaimController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClaimController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\ClaimController.cs",
-              "RelativeToolTip": "Controllers\\ClaimController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwDIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:36:20.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:35:50.992Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAADMAAACAmpmZmRkpwBQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:25:58.252Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Manager.cs",
-              "RelativeDocumentMoniker": "Models\\Manager.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Manager.cs",
-              "RelativeToolTip": "Models\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:15:56.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAABEAAADAAWXiSvcqwBoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:11:04.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "HR.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\HR.cs",
-              "RelativeDocumentMoniker": "Models\\HR.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\HR.cs",
-              "RelativeToolTip": "Models\\HR.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:17:56.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Lecturer.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Lecturer.cs",
-              "RelativeDocumentMoniker": "Models\\Lecturer.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Lecturer.cs",
-              "RelativeToolTip": "Models\\Lecturer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:15:45.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Invoice.cs",
-              "RelativeDocumentMoniker": "Models\\Invoice.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Invoice.cs",
-              "RelativeToolTip": "Models\\Invoice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:15:30.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IFileStorage.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\IFileStorage.cs",
-              "RelativeDocumentMoniker": "Models\\IFileStorage.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\IFileStorage.cs",
-              "RelativeToolTip": "Models\\IFileStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:15:18.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Feedback.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Feedback.cs",
-              "RelativeDocumentMoniker": "Models\\Feedback.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Feedback.cs",
-              "RelativeToolTip": "Models\\Feedback.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:14:58.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Coordinator.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Coordinator.cs",
-              "RelativeDocumentMoniker": "Models\\Coordinator.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Coordinator.cs",
-              "RelativeToolTip": "Models\\Coordinator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:14:43.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "FileStorage.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\FileStorage.cs",
-              "RelativeDocumentMoniker": "Models\\FileStorage.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\FileStorage.cs",
-              "RelativeToolTip": "Models\\FileStorage.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:16:38.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
               "Title": "Claim.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Claim.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG\\ProgFinalPoe\\Models\\Claim.cs",
               "RelativeDocumentMoniker": "Models\\Claim.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG\\ProgFinalPoe\\Models\\Claim.cs",
               "RelativeToolTip": "Models\\Claim.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwDEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwDEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:14:27.203Z"
+              "WhenOpened": "2025-11-20T11:17:03.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG\\ProgFinalPoe\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG\\ProgFinalPoe\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:11:36.089Z",
+              "EditorCaption": ""
             }
           ]
         }

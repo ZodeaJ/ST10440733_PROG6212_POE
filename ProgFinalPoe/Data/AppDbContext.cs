@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Reflection.Emit;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using ProgFinalPoe.Models;
 
 namespace ProgFinalPoe.Data
@@ -44,32 +42,32 @@ namespace ProgFinalPoe.Data
                 .HasOne(i => i.Lecturer)
                 .WithMany()
                 .HasForeignKey(i => i.LecturerId)
-                .OnDelete(DeleteBehavior.NoAction);
+                .OnDelete(DeleteBehavior.NoAction); 
 
             modelBuilder.Entity<User>()
                 .HasOne(u => u.Lecturer)
                 .WithMany()
                 .HasForeignKey(u => u.LecturerId)
                 .IsRequired(false)
-                .OnDelete(DeleteBehavior.SetNull);
+                .OnDelete(DeleteBehavior.SetNull); 
 
 
             //Set Data to be able to log in
             modelBuilder.Entity<User>().HasData(
                 new User
-                {
-                    UserId = 1,
-                    Username = "SK",
-                    Password = "HR123",
-                    Role = "HR",
-                    Name = "Shinobu",
-                    Surname = "Kocho",
-                    Email = "sk@gmail.com",
-                    HourlyRate = 0,
-                    Department = "Administration",
-                    IsActive = true,
-                    CreatedAt = new DateTime(2024, 1, 1)
-                },
+               {
+                   UserId = 1,
+                   Username = "SK",
+                   Password = "HR123",
+                   Role = "HR",
+                   Name = "Shinobu",
+                   Surname = "Kocho",
+                   Email = "sk@gmail.com",
+                   HourlyRate = 0,
+                   Department = "Administration",
+                   IsActive = true,
+                   CreatedAt = new DateTime(2024, 1, 1)
+               },
                new User
                {
                    UserId = 2,

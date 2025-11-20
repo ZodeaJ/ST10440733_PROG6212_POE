@@ -1,0 +1,147 @@
+﻿@model ProgFinalPoe.Models.Claim
+@{
+    ViewData["Title"] = "Make A Claim";
+}
+
+<style>
+    .bg-professional-primary {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+        color: white !important;
+        border: none;
+    }
+
+    .btn-professional-primary {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border: none;
+        font-weight: 500;
+    }
+
+        .btn-professional-primary:hover {
+            background: linear-gradient(135deg, #5a6fd8 0%, #6a4190 100%);
+            color: white;
+        }
+</style>
+
+<h2 class="mb-4" style="color: #333; font-weight: 600; border-bottom: 2px solid #667eea; padding-bottom: 10px;">Submit Claim</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>Success!</strong> @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>Error!</strong> @TempData["ErrorMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<div class="card shadow-sm">
+    <div class="card-header bg-professional-primary text-white">
+        <h5 class="mb-0">Claim Form - @ViewBag.LecturerName</h5>
+    </div>
+    <div class="card-body">
+        <form asp-action="MakeAClaim" method="post" enctype="multipart/form-data" id="claimForm">
+            @Html.AntiForgeryToken()
+
+            <input type="hidden" asp-for="HourlyRate" value="250" />
+
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label class="form-label">Your Hourly Rate</label>
+                    <input type="text" class="form-control" value="R @ViewBag.HourlyRate" readonly>
+                    <small class="text-muted">Set by HR Department</small>
+                </div>
+                <div class="col-md-6">
+                    <label asp-for="HoursWorked" class="form-label">Hours Worked *</label>
+                    <input asp-for="HoursWorked" class="form-control" id="hoursInput" required />
+                    <span asp-validation-for="HoursWorked" class="text-danger"></span>
+                    <small class="text-muted">Maximum 180 hours per month</small>
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Calculated Amount</label>
+                <div class="form-control" style="background-color: #e9ecef; font-weight: bold;" id="totalAmount">
+                    R 0.00
+                </div>
+                <div id="validationMessage" class="text-danger small mt-1"></div>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Month" class="form-label">Month *</label>
+                <select asp-for="Month" class="form-control" required>
+                    <option value="">-- Select Month --</option>
+                    <option value="January">January</option>
+                    <option value="February">February</option>
+                    <option value="March">March</option>
+                    <option value="April">April</option>
+                    <option value="May">May</option>
+                    <option value="June">June</option>
+                    <option value="July">July</option>
+                    <option value="August">August</option>
+                    <option value="September">September</option>
+                    <option value="October">October</option>
+                    <option value="November">November</option>
+                    <option value="December">December</option>
+                </select>
+                <span asp-validation-for="Month" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Description" class="form-label">Description of Work *</label>
+                <textarea asp-for="Description" class="form-control" rows="3" required></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Supporting Document *</label>
+                <input type="file" name="SupportingDocument" class="form-control" accept=".pdf,.docx,.xlsx,.png" required />
+                <small class="text-muted">Upload PDF, Word, Excel or PNG file (max 100MB)</small>
+            </div>
+
+            <button type="submit" class="btn btn-professional-primary">Submit Claim</button>
+            <a href="@Url.Action("TrackClaimStatus")" class="btn btn-secondary">View My Claims</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById('hoursInput').addEventListener('input', function() {
+            calculateAmount();
+        });
+
+        function calculateAmount() {
+            const hours = parseInt(document.getElementById('hoursInput').value) || 0;
+            const hourlyRate = 250;
+
+            if (hours > 0) {
+                const amount = hours * hourlyRate;
+                document.getElementById('totalAmount').textContent = 'R ' + amount.toLocaleString('en-ZA', {
+                    minimumFractionDigits: 2,
+                    maximumFractionDigits: 2
+                });
+
+                if (hours > 180) {
+                    document.getElementById('validationMessage').textContent =
+                        'Warning: Hours exceed the 180-hour monthly limit';
+                    document.getElementById('validationMessage').className = 'text-danger small mt-1';
+                } else {
+                    document.getElementById('validationMessage').textContent = '';
+                }
+            } else {
+                document.getElementById('totalAmount').textContent = 'R 0.00';
+                document.getElementById('validationMessage').textContent = '';
+            }
+        }
+
+        calculateAmount();
+    </script>
+}
