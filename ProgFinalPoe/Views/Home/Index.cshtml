@@ -1,8 +1,89 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<style>
+    .bg-professional-primary {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+    }
+
+    .btn-professional-primary {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border: none;
+        font-weight: 500;
+    }
+
+        .btn-professional-primary:hover {
+            background: linear-gradient(135deg, #5a6fd8 0%, #6a4190 100%);
+            color: white;
+        }
+</style>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8 text-center">
+            <h1 class="display-4 mb-4" style="color: #333; font-weight: 600; border-bottom: 2px solid #667eea; padding-bottom: 10px;">Welcome to Lecturer Claim System</h1>
+            <p class="lead mb-4">A comprehensive system for managing lecturer claims, approvals, and payments.</p>
+
+            @if (Context.Session.GetString("UserId") == null)
+            {
+                <div class="card shadow">
+                    <div class="card-body">
+                        <h5 class="card-title">Get Started</h5>
+                        <p class="card-text">Please login to access the system features.</p>
+                        <a asp-controller="Auth" asp-action="Login" class="btn btn-professional-primary btn-lg">Login to System</a>
+                    </div>
+                </div>
+
+                <div class="mt-5">
+                    <h5 style="color: #333; font-weight: 600;">System Features:</h5>
+                    <div class="row mt-3">
+                        <div class="col-md-3">
+                            <div class="card border-0 shadow-sm">
+                                <div class="card-body">
+                                    <h6 style="color: #667eea;">Lecturers</h6>
+                                    <small class="text-muted">Submit claims</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card border-0 shadow-sm">
+                                <div class="card-body">
+                                    <h6 style="color: #667eea;">Coordinators</h6>
+                                    <small class="text-muted">Review and forward claims</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card border-0 shadow-sm">
+                                <div class="card-body">
+                                    <h6 style="color: #667eea;">Managers</h6>
+                                    <small class="text-muted">Approve claims</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card border-0 shadow-sm">
+                                <div class="card-body">
+                                    <h6 style="color: #667eea;">HR</h6>
+                                    <small class="text-muted">Manage users & payments</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+            else
+            {
+                <div class="alert alert-info alert-dismissible fade show" role="alert">
+                    You are already logged in as <strong>@Context.Session.GetString("Name")</strong>
+                    (<strong>@Context.Session.GetString("Role")</strong>).
+                    Use the navigation menu above to access system features.
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+                <a asp-controller="Home" asp-action="Index" class="btn btn-outline-secondary">Refresh Page</a>
+            }
+        </div>
+    </div>
 </div>

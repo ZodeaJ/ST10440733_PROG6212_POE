@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|c:\\users\\lab_services_student\\documents\\github\\st10440733_prog6212_poe\\progfinalpoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB92E42D-D74A-4910-ABA9-B4B76D9B83F0}|ProgFinalPoe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -131,6 +135,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwFgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T12:11:05.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -143,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -151,12 +168,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-20T12:07:10.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T12:07:10.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -164,12 +180,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T12:03:20.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T12:03:20.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ManageUsers.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\ManageUsers.cshtml",
               "RelativeDocumentMoniker": "Views\\HR\\ManageUsers.cshtml",
@@ -181,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TrackLecturerClaims.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\TrackLecturerClaims.cshtml",
               "RelativeDocumentMoniker": "Views\\HR\\TrackLecturerClaims.cshtml",
@@ -193,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Invoices.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\Invoices.cshtml",
               "RelativeDocumentMoniker": "Views\\HR\\Invoices.cshtml",
@@ -205,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\HR\\Index.cshtml",
@@ -217,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EditUser.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\EditUser.cshtml",
               "RelativeDocumentMoniker": "Views\\HR\\EditUser.cshtml",
@@ -229,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CreateUser.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\CreateUser.cshtml",
               "RelativeDocumentMoniker": "Views\\HR\\CreateUser.cshtml",
@@ -241,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
@@ -253,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ApprovedClaims.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Views\\HR\\ApprovedClaims.cshtml",
               "RelativeDocumentMoniker": "Views\\HR\\ApprovedClaims.cshtml",
@@ -265,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SessionsService.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Services\\SessionsService.cs",
               "RelativeDocumentMoniker": "Services\\SessionsService.cs",
@@ -277,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "HRController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\HRController.cs",
               "RelativeDocumentMoniker": "Controllers\\HRController.cs",
@@ -289,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "LecturerController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\LecturerController.cs",
               "RelativeDocumentMoniker": "Controllers\\LecturerController.cs",
@@ -301,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -313,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -325,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ClaimController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\ClaimController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClaimController.cs",
@@ -337,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
@@ -349,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -361,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Manager.cs",
               "RelativeDocumentMoniker": "Models\\Manager.cs",
@@ -373,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -385,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "HR.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\HR.cs",
               "RelativeDocumentMoniker": "Models\\HR.cs",
@@ -397,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Lecturer.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Lecturer.cs",
               "RelativeDocumentMoniker": "Models\\Lecturer.cs",
@@ -409,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Invoice.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Invoice.cs",
               "RelativeDocumentMoniker": "Models\\Invoice.cs",
@@ -421,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "IFileStorage.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\IFileStorage.cs",
               "RelativeDocumentMoniker": "Models\\IFileStorage.cs",
@@ -433,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Feedback.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Feedback.cs",
               "RelativeDocumentMoniker": "Models\\Feedback.cs",
@@ -445,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Coordinator.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Coordinator.cs",
               "RelativeDocumentMoniker": "Models\\Coordinator.cs",
@@ -457,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "FileStorage.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\FileStorage.cs",
               "RelativeDocumentMoniker": "Models\\FileStorage.cs",
@@ -469,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Claim.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10440733_PROG6212_POE\\ProgFinalPoe\\Models\\Claim.cs",
               "RelativeDocumentMoniker": "Models\\Claim.cs",
